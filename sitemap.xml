@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>index.html</loc></url>
-  <url><loc>about.html</loc></url>
-  <url><loc>nubank-case-study.html</loc></url>
-  <url><loc>ebanx-go-case-study.html</loc></url>
-  <url><loc>involves-stage-sign-in-and-sign-up.html</loc></url>
-  <url><loc>ebanx-cashback.html</loc></url>
-  <url><loc>mettzer.html</loc></url>
-  <url><loc>elegance.html</loc></url>
-  <url><loc>leosoft.html</loc></url>
-  <url><loc>lleoscom.html</loc></url>
-  <url><loc>clube-da-lingerie.html</loc></url>
-  <url><loc>prpromotora-de-credito.html</loc></url>
-  <url><loc>buscacred.html</loc></url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/nubank-case-study.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/ebanx-go-case-study.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/involves-stage-sign-in-and-sign-up.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/ebanx-cashback.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/mettzer.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/elegance.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/leosoft.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/lleoscom.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/clube-da-lingerie.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/prpromotora-de-credito.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.leonardosalvador.com/buscacred.html</loc>
+  </url>
+
 </urlset>
