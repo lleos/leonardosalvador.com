@@ -856,7 +856,7 @@ nav .link-title:last-child {
     text-decoration: line-through; }
 
 .logo-secondary {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -881,7 +881,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -899,7 +899,7 @@ nav {
       text-transform: uppercase; }
   nav .project-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -914,7 +914,7 @@ nav {
       font-weight: 500; }
   nav .page-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -932,7 +932,7 @@ nav {
       text-transform: uppercase; }
   nav .link-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -1074,7 +1074,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #999;
-    font-family: vcxq, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 200;
@@ -1166,7 +1166,7 @@ nav {
     padding-top: 24px; } }
 
 .cookie-banner {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -1174,7 +1174,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: fbft, 'Inter', sans-serif; }
+    font-family: 'Inter', sans-serif; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -1182,7 +1182,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: fbft, 'Inter', sans-serif; }
+  font-family: 'Inter', sans-serif; }
 
 .site-content {
   margin-left: 2%;
@@ -2026,7 +2026,7 @@ nav {
     width: 100%; }
   .page-header .description {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -2038,7 +2038,7 @@ nav {
     width: 100%; }
   .page-header .date {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -2050,7 +2050,7 @@ nav {
     width: 100%; }
   .page-header .custom1 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -2062,7 +2062,7 @@ nav {
     width: 100%; }
   .page-header .custom2 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -2263,7 +2263,7 @@ nav {
 
 .splash-modules .rich-text .title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -2275,7 +2275,7 @@ nav {
 
 .splash-modules .rich-text .sub-title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -2289,7 +2289,7 @@ nav {
 .splash-modules .rich-text div,
 .splash-modules .rich-text p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -2312,7 +2312,7 @@ nav {
 .splash-modules .module-caption div,
 .splash-modules .module-caption p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -2522,7 +2522,7 @@ nav {
 
 .standard-modules .rich-text .title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -2534,7 +2534,7 @@ nav {
 
 .standard-modules .rich-text .sub-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -2548,7 +2548,7 @@ nav {
 .standard-modules .rich-text div,
 .standard-modules .rich-text p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2571,7 +2571,7 @@ nav {
 .standard-modules .module-caption div,
 .standard-modules .module-caption p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -2807,7 +2807,7 @@ nav {
   .other-projects .project-cover .custom1 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -2823,7 +2823,7 @@ nav {
   .other-projects .project-cover .custom2 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -2839,7 +2839,7 @@ nav {
   .other-projects .project-cover .description {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -3829,7 +3829,7 @@ nav .link-title:last-child {
     text-decoration: line-through; }
 
 .logo-secondary {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -3854,7 +3854,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -3872,7 +3872,7 @@ nav {
       text-transform: uppercase; }
   nav .project-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -3887,7 +3887,7 @@ nav {
       font-weight: 500; }
   nav .page-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -3905,7 +3905,7 @@ nav {
       text-transform: uppercase; }
   nav .link-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -4047,7 +4047,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #999;
-    font-family: vcxq, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 200;
@@ -4139,7 +4139,7 @@ nav {
     padding-top: 24px; } }
 
 .cookie-banner {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -4147,7 +4147,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: fbft, 'Inter', sans-serif; }
+    font-family: 'Inter', sans-serif; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -4155,7 +4155,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: fbft, 'Inter', sans-serif; }
+  font-family: 'Inter', sans-serif; }
 
 .site-content {
   margin-left: 2%;
@@ -4999,7 +4999,7 @@ nav {
     width: 100%; }
   .page-header .description {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -5011,7 +5011,7 @@ nav {
     width: 100%; }
   .page-header .date {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -5023,7 +5023,7 @@ nav {
     width: 100%; }
   .page-header .custom1 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -5035,7 +5035,7 @@ nav {
     width: 100%; }
   .page-header .custom2 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -5236,7 +5236,7 @@ nav {
 
 .splash-modules .rich-text .title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -5248,7 +5248,7 @@ nav {
 
 .splash-modules .rich-text .sub-title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -5262,7 +5262,7 @@ nav {
 .splash-modules .rich-text div,
 .splash-modules .rich-text p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -5285,7 +5285,7 @@ nav {
 .splash-modules .module-caption div,
 .splash-modules .module-caption p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -5495,7 +5495,7 @@ nav {
 
 .standard-modules .rich-text .title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -5507,7 +5507,7 @@ nav {
 
 .standard-modules .rich-text .sub-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -5521,7 +5521,7 @@ nav {
 .standard-modules .rich-text div,
 .standard-modules .rich-text p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -5544,7 +5544,7 @@ nav {
 .standard-modules .module-caption div,
 .standard-modules .module-caption p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -5780,7 +5780,7 @@ nav {
   .other-projects .project-cover .custom1 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -5796,7 +5796,7 @@ nav {
   .other-projects .project-cover .custom2 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -5812,7 +5812,7 @@ nav {
   .other-projects .project-cover .description {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -6802,7 +6802,7 @@ nav .link-title:last-child {
     text-decoration: line-through; }
 
 .logo-secondary {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -6827,7 +6827,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -6845,7 +6845,7 @@ nav {
       text-transform: uppercase; }
   nav .project-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -6860,7 +6860,7 @@ nav {
       font-weight: 500; }
   nav .page-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -6878,7 +6878,7 @@ nav {
       text-transform: uppercase; }
   nav .link-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -7020,7 +7020,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #999;
-    font-family: vcxq, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 200;
@@ -7112,7 +7112,7 @@ nav {
     padding-top: 24px; } }
 
 .cookie-banner {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -7120,7 +7120,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: fbft, 'Inter', sans-serif; }
+    font-family: 'Inter', sans-serif; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -7128,7 +7128,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: fbft, 'Inter', sans-serif; }
+  font-family: 'Inter', sans-serif; }
 
 .site-content {
   margin-left: 2%;
@@ -7972,7 +7972,7 @@ nav {
     width: 100%; }
   .page-header .description {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -7984,7 +7984,7 @@ nav {
     width: 100%; }
   .page-header .date {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -7996,7 +7996,7 @@ nav {
     width: 100%; }
   .page-header .custom1 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -8008,7 +8008,7 @@ nav {
     width: 100%; }
   .page-header .custom2 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -8209,7 +8209,7 @@ nav {
 
 .splash-modules .rich-text .title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -8221,7 +8221,7 @@ nav {
 
 .splash-modules .rich-text .sub-title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -8235,7 +8235,7 @@ nav {
 .splash-modules .rich-text div,
 .splash-modules .rich-text p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -8258,7 +8258,7 @@ nav {
 .splash-modules .module-caption div,
 .splash-modules .module-caption p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -8468,7 +8468,7 @@ nav {
 
 .standard-modules .rich-text .title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -8480,7 +8480,7 @@ nav {
 
 .standard-modules .rich-text .sub-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -8494,7 +8494,7 @@ nav {
 .standard-modules .rich-text div,
 .standard-modules .rich-text p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -8517,7 +8517,7 @@ nav {
 .standard-modules .module-caption div,
 .standard-modules .module-caption p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -8753,7 +8753,7 @@ nav {
   .other-projects .project-cover .custom1 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -8769,7 +8769,7 @@ nav {
   .other-projects .project-cover .custom2 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -8785,7 +8785,7 @@ nav {
   .other-projects .project-cover .description {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -9775,7 +9775,7 @@ nav .link-title:last-child {
     text-decoration: line-through; }
 
 .logo-secondary {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -9800,7 +9800,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -9818,7 +9818,7 @@ nav {
       text-transform: uppercase; }
   nav .project-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -9833,7 +9833,7 @@ nav {
       font-weight: 500; }
   nav .page-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -9851,7 +9851,7 @@ nav {
       text-transform: uppercase; }
   nav .link-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -9993,7 +9993,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #999;
-    font-family: vcxq, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 200;
@@ -10085,7 +10085,7 @@ nav {
     padding-top: 24px; } }
 
 .cookie-banner {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -10093,7 +10093,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: fbft, 'Inter', sans-serif; }
+    font-family: 'Inter', sans-serif; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -10101,7 +10101,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: fbft, 'Inter', sans-serif; }
+  font-family: 'Inter', sans-serif; }
 
 .site-content {
   margin-left: 2%;
@@ -10891,7 +10891,7 @@ nav {
 
 .other-projects-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -10945,7 +10945,7 @@ nav {
     width: 100%; }
   .page-header .description {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -10957,7 +10957,7 @@ nav {
     width: 100%; }
   .page-header .date {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -10969,7 +10969,7 @@ nav {
     width: 100%; }
   .page-header .custom1 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -10981,7 +10981,7 @@ nav {
     width: 100%; }
   .page-header .custom2 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -11182,7 +11182,7 @@ nav {
 
 .splash-modules .rich-text .title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -11194,7 +11194,7 @@ nav {
 
 .splash-modules .rich-text .sub-title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -11208,7 +11208,7 @@ nav {
 .splash-modules .rich-text div,
 .splash-modules .rich-text p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -11231,7 +11231,7 @@ nav {
 .splash-modules .module-caption div,
 .splash-modules .module-caption p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -11441,7 +11441,7 @@ nav {
 
 .standard-modules .rich-text .title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -11453,7 +11453,7 @@ nav {
 
 .standard-modules .rich-text .sub-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -11467,7 +11467,7 @@ nav {
 .standard-modules .rich-text div,
 .standard-modules .rich-text p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -11490,7 +11490,7 @@ nav {
 .standard-modules .module-caption div,
 .standard-modules .module-caption p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -11694,7 +11694,7 @@ nav {
   .other-projects .project-cover .title {
     color: #191919;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -11710,7 +11710,7 @@ nav {
   .other-projects .project-cover .date {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -11726,7 +11726,7 @@ nav {
   .other-projects .project-cover .custom1 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -11742,7 +11742,7 @@ nav {
   .other-projects .project-cover .custom2 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -11758,7 +11758,7 @@ nav {
   .other-projects .project-cover .description {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -12748,7 +12748,7 @@ nav .link-title:last-child {
     text-decoration: line-through; }
 
 .logo-secondary {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -12773,7 +12773,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -12791,7 +12791,7 @@ nav {
       text-transform: uppercase; }
   nav .project-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -12806,7 +12806,7 @@ nav {
       font-weight: 500; }
   nav .page-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -12824,7 +12824,7 @@ nav {
       text-transform: uppercase; }
   nav .link-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -12966,7 +12966,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #999;
-    font-family: vcxq, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 200;
@@ -13058,7 +13058,7 @@ nav {
     padding-top: 24px; } }
 
 .cookie-banner {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -13066,7 +13066,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: fbft, 'Inter', sans-serif; }
+    font-family: 'Inter', sans-serif; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -13074,7 +13074,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: fbft, 'Inter', sans-serif; }
+  font-family: 'Inter', sans-serif; }
 
 .site-content {
   margin-left: 2%;
@@ -13918,7 +13918,7 @@ nav {
     width: 100%; }
   .page-header .description {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -13930,7 +13930,7 @@ nav {
     width: 100%; }
   .page-header .date {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -13942,7 +13942,7 @@ nav {
     width: 100%; }
   .page-header .custom1 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -13954,7 +13954,7 @@ nav {
     width: 100%; }
   .page-header .custom2 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -14161,7 +14161,7 @@ nav {
 
 .splash-modules .rich-text .title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -14173,7 +14173,7 @@ nav {
 
 .splash-modules .rich-text .sub-title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -14187,7 +14187,7 @@ nav {
 .splash-modules .rich-text div,
 .splash-modules .rich-text p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -14210,7 +14210,7 @@ nav {
 .splash-modules .module-caption div,
 .splash-modules .module-caption p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -14420,7 +14420,7 @@ nav {
 
 .standard-modules .rich-text .title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -14432,7 +14432,7 @@ nav {
 
 .standard-modules .rich-text .sub-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -14446,7 +14446,7 @@ nav {
 .standard-modules .rich-text div,
 .standard-modules .rich-text p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -14469,7 +14469,7 @@ nav {
 .standard-modules .module-caption div,
 .standard-modules .module-caption p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -14705,7 +14705,7 @@ nav {
   .other-projects .project-cover .custom1 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -14721,7 +14721,7 @@ nav {
   .other-projects .project-cover .custom2 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -14737,7 +14737,7 @@ nav {
   .other-projects .project-cover .description {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -15727,7 +15727,7 @@ nav .link-title:last-child {
     text-decoration: line-through; }
 
 .logo-secondary {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -15752,7 +15752,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -15770,7 +15770,7 @@ nav {
       text-transform: uppercase; }
   nav .project-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -15785,7 +15785,7 @@ nav {
       font-weight: 500; }
   nav .page-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -15803,7 +15803,7 @@ nav {
       text-transform: uppercase; }
   nav .link-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -15945,7 +15945,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #999;
-    font-family: vcxq, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 200;
@@ -16037,7 +16037,7 @@ nav {
     padding-top: 24px; } }
 
 .cookie-banner {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -16045,7 +16045,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: fbft, 'Inter', sans-serif; }
+    font-family: 'Inter', sans-serif; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -16053,7 +16053,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: fbft, 'Inter', sans-serif; }
+  font-family: 'Inter', sans-serif; }
 
 .site-content {
   margin-left: 2%;
@@ -16897,7 +16897,7 @@ nav {
     width: 100%; }
   .page-header .description {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -16909,7 +16909,7 @@ nav {
     width: 100%; }
   .page-header .date {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -16921,7 +16921,7 @@ nav {
     width: 100%; }
   .page-header .custom1 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -16933,7 +16933,7 @@ nav {
     width: 100%; }
   .page-header .custom2 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -17134,7 +17134,7 @@ nav {
 
 .splash-modules .rich-text .title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -17146,7 +17146,7 @@ nav {
 
 .splash-modules .rich-text .sub-title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -17160,7 +17160,7 @@ nav {
 .splash-modules .rich-text div,
 .splash-modules .rich-text p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -17183,7 +17183,7 @@ nav {
 .splash-modules .module-caption div,
 .splash-modules .module-caption p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -17393,7 +17393,7 @@ nav {
 
 .standard-modules .rich-text .title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -17405,7 +17405,7 @@ nav {
 
 .standard-modules .rich-text .sub-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -17419,7 +17419,7 @@ nav {
 .standard-modules .rich-text div,
 .standard-modules .rich-text p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -17442,7 +17442,7 @@ nav {
 .standard-modules .module-caption div,
 .standard-modules .module-caption p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -17678,7 +17678,7 @@ nav {
   .other-projects .project-cover .custom1 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -17694,7 +17694,7 @@ nav {
   .other-projects .project-cover .custom2 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -17710,7 +17710,7 @@ nav {
   .other-projects .project-cover .description {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -18700,7 +18700,7 @@ nav .link-title:last-child {
     text-decoration: line-through; }
 
 .logo-secondary {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -18725,7 +18725,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -18743,7 +18743,7 @@ nav {
       text-transform: uppercase; }
   nav .project-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -18758,7 +18758,7 @@ nav {
       font-weight: 500; }
   nav .page-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -18776,7 +18776,7 @@ nav {
       text-transform: uppercase; }
   nav .link-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -18918,7 +18918,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #999;
-    font-family: vcxq, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 200;
@@ -19010,7 +19010,7 @@ nav {
     padding-top: 24px; } }
 
 .cookie-banner {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -19018,7 +19018,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: fbft, 'Inter', sans-serif; }
+    font-family: 'Inter', sans-serif; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -19026,7 +19026,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: fbft, 'Inter', sans-serif; }
+  font-family: 'Inter', sans-serif; }
 
 .site-content {
   margin-left: 2%;
@@ -19870,7 +19870,7 @@ nav {
     width: 100%; }
   .page-header .description {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -19882,7 +19882,7 @@ nav {
     width: 100%; }
   .page-header .date {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -19894,7 +19894,7 @@ nav {
     width: 100%; }
   .page-header .custom1 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -19906,7 +19906,7 @@ nav {
     width: 100%; }
   .page-header .custom2 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -20107,7 +20107,7 @@ nav {
 
 .splash-modules .rich-text .title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -20119,7 +20119,7 @@ nav {
 
 .splash-modules .rich-text .sub-title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -20133,7 +20133,7 @@ nav {
 .splash-modules .rich-text div,
 .splash-modules .rich-text p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -20156,7 +20156,7 @@ nav {
 .splash-modules .module-caption div,
 .splash-modules .module-caption p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -20366,7 +20366,7 @@ nav {
 
 .standard-modules .rich-text .title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -20378,7 +20378,7 @@ nav {
 
 .standard-modules .rich-text .sub-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -20392,7 +20392,7 @@ nav {
 .standard-modules .rich-text div,
 .standard-modules .rich-text p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -20415,7 +20415,7 @@ nav {
 .standard-modules .module-caption div,
 .standard-modules .module-caption p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -20651,7 +20651,7 @@ nav {
   .other-projects .project-cover .custom1 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -20667,7 +20667,7 @@ nav {
   .other-projects .project-cover .custom2 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -20683,7 +20683,7 @@ nav {
   .other-projects .project-cover .description {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -21673,7 +21673,7 @@ nav .link-title:last-child {
     text-decoration: line-through; }
 
 .logo-secondary {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -21698,7 +21698,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -21716,7 +21716,7 @@ nav {
       text-transform: uppercase; }
   nav .project-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -21731,7 +21731,7 @@ nav {
       font-weight: 500; }
   nav .page-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -21749,7 +21749,7 @@ nav {
       text-transform: uppercase; }
   nav .link-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -21891,7 +21891,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #999;
-    font-family: vcxq, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 200;
@@ -21983,7 +21983,7 @@ nav {
     padding-top: 24px; } }
 
 .cookie-banner {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -21991,7 +21991,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: fbft, 'Inter', sans-serif; }
+    font-family: 'Inter', sans-serif; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -21999,7 +21999,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: fbft, 'Inter', sans-serif; }
+  font-family: 'Inter', sans-serif; }
 
 .site-content {
   margin-left: 2%;
@@ -22789,7 +22789,7 @@ nav {
 
 .other-projects-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -22831,7 +22831,7 @@ nav {
   width: 100%; }
   .page-header .title {
     color: #191919;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 25px;
     font-style: normal;
     font-weight: 700;
@@ -22843,7 +22843,7 @@ nav {
     width: 100%; }
   .page-header .description {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -22855,7 +22855,7 @@ nav {
     width: 100%; }
   .page-header .date {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -22867,7 +22867,7 @@ nav {
     width: 100%; }
   .page-header .custom1 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -22879,7 +22879,7 @@ nav {
     width: 100%; }
   .page-header .custom2 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -23080,7 +23080,7 @@ nav {
 
 .splash-modules .rich-text .title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -23092,7 +23092,7 @@ nav {
 
 .splash-modules .rich-text .sub-title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -23106,7 +23106,7 @@ nav {
 .splash-modules .rich-text div,
 .splash-modules .rich-text p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -23129,7 +23129,7 @@ nav {
 .splash-modules .module-caption div,
 .splash-modules .module-caption p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -23339,7 +23339,7 @@ nav {
 
 .standard-modules .rich-text .title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -23351,7 +23351,7 @@ nav {
 
 .standard-modules .rich-text .sub-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -23365,7 +23365,7 @@ nav {
 .standard-modules .rich-text div,
 .standard-modules .rich-text p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -23388,7 +23388,7 @@ nav {
 .standard-modules .module-caption div,
 .standard-modules .module-caption p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -23592,7 +23592,7 @@ nav {
   .other-projects .project-cover .title {
     color: #191919;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -23608,7 +23608,7 @@ nav {
   .other-projects .project-cover .date {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -23624,7 +23624,7 @@ nav {
   .other-projects .project-cover .custom1 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -23640,7 +23640,7 @@ nav {
   .other-projects .project-cover .custom2 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -23656,7 +23656,7 @@ nav {
   .other-projects .project-cover .description {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -24646,7 +24646,7 @@ nav .link-title:last-child {
     text-decoration: line-through; }
 
 .logo-secondary {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -24671,7 +24671,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -24689,7 +24689,7 @@ nav {
       text-transform: uppercase; }
   nav .project-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -24704,7 +24704,7 @@ nav {
       font-weight: 500; }
   nav .page-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -24722,7 +24722,7 @@ nav {
       text-transform: uppercase; }
   nav .link-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -24864,7 +24864,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #999;
-    font-family: vcxq, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 200;
@@ -24956,7 +24956,7 @@ nav {
     padding-top: 24px; } }
 
 .cookie-banner {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -24964,7 +24964,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: fbft, 'Inter', sans-serif; }
+    font-family: 'Inter', sans-serif; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -24972,7 +24972,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: fbft, 'Inter', sans-serif; }
+  font-family: 'Inter', sans-serif; }
 
 .site-content {
   margin-left: 2%;
@@ -25816,7 +25816,7 @@ nav {
     width: 100%; }
   .page-header .description {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -25828,7 +25828,7 @@ nav {
     width: 100%; }
   .page-header .date {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -25840,7 +25840,7 @@ nav {
     width: 100%; }
   .page-header .custom1 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -25852,7 +25852,7 @@ nav {
     width: 100%; }
   .page-header .custom2 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -26053,7 +26053,7 @@ nav {
 
 .splash-modules .rich-text .title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -26065,7 +26065,7 @@ nav {
 
 .splash-modules .rich-text .sub-title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -26079,7 +26079,7 @@ nav {
 .splash-modules .rich-text div,
 .splash-modules .rich-text p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -26102,7 +26102,7 @@ nav {
 .splash-modules .module-caption div,
 .splash-modules .module-caption p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -26312,7 +26312,7 @@ nav {
 
 .standard-modules .rich-text .title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -26324,7 +26324,7 @@ nav {
 
 .standard-modules .rich-text .sub-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -26338,7 +26338,7 @@ nav {
 .standard-modules .rich-text div,
 .standard-modules .rich-text p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -26361,7 +26361,7 @@ nav {
 .standard-modules .module-caption div,
 .standard-modules .module-caption p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -26597,7 +26597,7 @@ nav {
   .other-projects .project-cover .custom1 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -26613,7 +26613,7 @@ nav {
   .other-projects .project-cover .custom2 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -26629,7 +26629,7 @@ nav {
   .other-projects .project-cover .description {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -27619,7 +27619,7 @@ nav .link-title:last-child {
     text-decoration: line-through; }
 
 .logo-secondary {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -27644,7 +27644,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -27662,7 +27662,7 @@ nav {
       text-transform: uppercase; }
   nav .project-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -27677,7 +27677,7 @@ nav {
       font-weight: 500; }
   nav .page-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -27695,7 +27695,7 @@ nav {
       text-transform: uppercase; }
   nav .link-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -27837,7 +27837,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #999;
-    font-family: vcxq, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 200;
@@ -27929,7 +27929,7 @@ nav {
     padding-top: 24px; } }
 
 .cookie-banner {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -27937,7 +27937,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: fbft, 'Inter', sans-serif; }
+    font-family: 'Inter', sans-serif; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -27945,7 +27945,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: fbft, 'Inter', sans-serif; }
+  font-family: 'Inter', sans-serif; }
 
 .site-content {
   margin-left: 2%;
@@ -28789,7 +28789,7 @@ nav {
     width: 100%; }
   .page-header .description {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -28801,7 +28801,7 @@ nav {
     width: 100%; }
   .page-header .date {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -28813,7 +28813,7 @@ nav {
     width: 100%; }
   .page-header .custom1 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -28825,7 +28825,7 @@ nav {
     width: 100%; }
   .page-header .custom2 {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -29026,7 +29026,7 @@ nav {
 
 .splash-modules .rich-text .title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -29038,7 +29038,7 @@ nav {
 
 .splash-modules .rich-text .sub-title {
   color: #333333;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -29052,7 +29052,7 @@ nav {
 .splash-modules .rich-text div,
 .splash-modules .rich-text p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -29075,7 +29075,7 @@ nav {
 .splash-modules .module-caption div,
 .splash-modules .module-caption p {
   color: #a9a9a9;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -29285,7 +29285,7 @@ nav {
 
 .standard-modules .rich-text .title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -29297,7 +29297,7 @@ nav {
 
 .standard-modules .rich-text .sub-title {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -29311,7 +29311,7 @@ nav {
 .standard-modules .rich-text div,
 .standard-modules .rich-text p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -29334,7 +29334,7 @@ nav {
 .standard-modules .module-caption div,
 .standard-modules .module-caption p {
   color: #191919;
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 13px;
   font-style: normal;
   font-weight: 400;
@@ -29554,7 +29554,7 @@ nav {
   .other-projects .project-cover .date {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -29570,7 +29570,7 @@ nav {
   .other-projects .project-cover .custom1 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -29586,7 +29586,7 @@ nav {
   .other-projects .project-cover .custom2 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -29602,7 +29602,7 @@ nav {
   .other-projects .project-cover .description {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -30592,7 +30592,7 @@ nav .link-title:last-child {
     text-decoration: line-through; }
 
 .logo-secondary {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -30617,7 +30617,7 @@ nav {
   width: 30%; }
   nav .gallery-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -30635,7 +30635,7 @@ nav {
       text-transform: uppercase; }
   nav .project-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -30650,7 +30650,7 @@ nav {
       font-weight: 500; }
   nav .page-title a {
     color: #999;
-    font-family: ydfl, 'Inter', sans-serif;
+    font-family: 'Barlow Condensed', 'Inter', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -30668,7 +30668,7 @@ nav {
       text-transform: uppercase; }
   nav .link-title a {
     color: #999;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 400;
@@ -30810,7 +30810,7 @@ nav {
     text-transform: none; }
   .masthead p {
     color: #999;
-    font-family: vcxq, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 200;
@@ -30902,7 +30902,7 @@ nav {
     padding-top: 24px; } }
 
 .cookie-banner {
-  font-family: fbft, 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
   width: 100%; }
   .cookie-banner .close-btn {
     cursor: pointer; }
@@ -30910,7 +30910,7 @@ nav {
 .lightbox-content {
   height: 100%; }
   .lightbox-content .grid__image-caption {
-    font-family: fbft, 'Inter', sans-serif; }
+    font-family: 'Inter', sans-serif; }
 
 #lightbox-wrap,
 #lightbox-inner-wrap {
@@ -30918,7 +30918,7 @@ nav {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: fbft, 'Inter', sans-serif; }
+  font-family: 'Inter', sans-serif; }
 
 .site-content {
   margin-left: 2%;
@@ -31328,7 +31328,7 @@ nav {
   .project-cover .custom1 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -31344,7 +31344,7 @@ nav {
   .project-cover .custom2 {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -31360,7 +31360,7 @@ nav {
   .project-cover .description {
     color: #999;
     float: none;
-    font-family: fbft, 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
